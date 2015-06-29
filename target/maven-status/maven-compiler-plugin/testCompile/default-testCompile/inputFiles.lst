@@ -1,0 +1,16 @@
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\processors\ReportProcessorTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\AwReportingTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\processors\onmemory\ReportProcessorOnMemoryTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\util\FileUtilTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\util\AdWordsSessionUtilTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\processors\onfile\RunnableProcessorOnFileTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\util\HTMLExporterTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\downloader\RunnableDownloaderTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\processors\onmemory\RunnableProcessorOnMemoryTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\proxy\JaxWsProxySelectorTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\util\AdWordsSessionBuilderSynchronizerTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\exporter\ReportExporterTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\processors\onfile\ReportProcessorOnFileTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\util\ManagedCustomerServiceDelegateTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\downloader\MultipleClientReportDownloaderTest.java
+C:\GitHub\aw-reporting\aw-reporting\src\test\java\com\google\api\ads\adwords\awreporting\util\TemplateStringsUtilTest.java

@@ -1,0 +1,295 @@
+2015-06-26 10:48:08,460 INFO  [AwReporting] Using properties file: aw-reporting/src/main/resources/aw-report-sample.properties
+2015-06-26 10:48:08,464 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 10:48:08,490 ERROR [AwReporting] File not found: accountslist.txt (The system cannot find the file specified)
+2015-06-26 10:48:26,944 INFO  [AwReporting] Using properties file: aw-reporting/src/main/resources/aw-report-sample.properties
+2015-06-26 10:48:26,947 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 10:48:27,201 ERROR [AwReporting] Unexpected error accessing the API: For input string: "8887334857,5680411529,2030598859,4984247336,7617748971,4702255747,3101447476,1082173516,2969474243,6738420815,4135048087,5681768739"
+2015-06-26 10:50:38,582 INFO  [AwReporting] Using properties file: aw-reporting/src/main/resources/aw-report-sample.properties
+2015-06-26 10:50:38,589 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 10:50:38,651 ERROR [AwReporting] File not found: aw-reporting\src\main\resources\aw-report-sample.properties (The system cannot find the path specified)
+2015-06-26 10:52:25,256 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 10:52:25,259 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 10:52:25,296 ERROR [AwReporting] File not found: aw-report.prop (The system cannot find the file specified)
+2015-06-26 10:52:38,162 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 10:52:38,165 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 10:52:38,254 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 10:52:38,255 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 10:52:38,255 WARN  [AwReporting] Done.
+2015-06-26 10:52:38,256 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 10:52:39,337 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 10:52:41,609 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 10:52:41,610 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 10:52:41,611 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 10:52:42,045 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.GenericJDBCException: Could not open connection
+2015-06-26 11:52:14,579 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 11:52:14,603 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 11:52:15,029 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 11:52:15,030 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 11:52:15,030 WARN  [AwReporting] Done.
+2015-06-26 11:52:15,040 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 11:52:16,667 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 11:52:19,482 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 11:52:19,483 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 11:52:19,483 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 11:52:20,211 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-26 11:54:07,964 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 11:54:07,967 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 11:54:08,002 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 11:54:08,002 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 11:54:08,003 WARN  [AwReporting] Done.
+2015-06-26 11:54:08,003 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 11:54:08,369 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 11:54:09,496 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 11:54:09,496 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 11:54:09,497 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 11:54:09,773 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-26 11:56:56,514 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 11:56:56,517 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 11:56:56,550 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 11:56:56,550 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 11:56:56,550 WARN  [AwReporting] Done.
+2015-06-26 11:56:56,551 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 11:56:56,912 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 11:56:58,094 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 11:56:58,095 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 11:56:58,095 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 11:56:58,368 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-26 12:00:00,560 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 12:00:00,562 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 12:00:00,597 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 12:00:00,597 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 12:00:00,598 WARN  [AwReporting] Done.
+2015-06-26 12:00:00,598 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 12:00:00,974 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 12:00:02,141 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 12:00:02,142 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 12:00:02,142 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 12:00:02,396 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-26 12:01:35,053 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 12:01:35,056 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 12:01:35,090 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 12:01:35,090 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 12:01:35,090 WARN  [AwReporting] Done.
+2015-06-26 12:01:35,091 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 12:01:35,456 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 12:01:36,616 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 12:01:36,617 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 12:01:36,617 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 12:01:36,889 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-26 16:03:28,337 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-26 16:03:28,361 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-26 16:03:28,506 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-26 16:03:28,507 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-26 16:03:28,507 WARN  [AwReporting] Done.
+2015-06-26 16:03:28,507 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-26 16:03:28,928 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-26 16:03:30,218 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-26 16:03:30,219 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-26 16:03:30,220 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-26 16:03:30,532 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-29 09:47:53,263 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 09:47:53,266 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-29 09:47:53,389 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 09:47:53,390 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 09:47:53,390 WARN  [AwReporting] Done.
+2015-06-29 09:47:53,390 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 09:47:53,815 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 09:47:55,035 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 09:47:55,036 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 09:47:55,037 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 09:47:55,301 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-29 09:53:26,865 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 09:53:26,868 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-29 09:53:26,906 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 09:53:26,906 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 09:53:26,907 WARN  [AwReporting] Done.
+2015-06-29 09:53:26,907 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 09:53:27,287 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 09:53:28,533 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 09:53:28,535 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 09:53:28,535 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 09:53:28,857 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-29 09:56:37,958 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 09:56:37,962 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-29 09:56:37,999 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 09:56:38,000 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 09:56:38,000 WARN  [AwReporting] Done.
+2015-06-29 09:56:38,002 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 09:56:38,385 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 09:56:39,581 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 09:56:39,582 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 09:56:39,583 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 09:56:39,841 ERROR [AwReporting] Unexpected error accessing the API: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.SQLGrammarException: Could not open connection
+2015-06-29 09:58:28,419 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 09:58:28,423 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-29 09:58:28,469 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 09:58:28,470 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 09:58:28,470 WARN  [AwReporting] Done.
+2015-06-29 09:58:28,471 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 09:58:28,861 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 09:58:34,451 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 09:58:34,451 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 09:58:34,451 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 09:59:18,408 ERROR [AwReporting] Unexpected error accessing the API: null
+2015-06-29 10:04:51,094 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 10:04:51,100 INFO  [AwReporting] Using accounts file: accountslist.txt
+2015-06-29 10:04:51,149 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 10:04:51,149 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 10:04:51,150 WARN  [AwReporting] Done.
+2015-06-29 10:04:51,150 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 10:04:51,547 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 10:04:52,934 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 10:04:52,938 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 10:04:52,942 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 10:05:14,394 INFO  [InstalledOAuth2Authenticator] Saving Refresh Token to DB...
+2015-06-29 10:05:14,441 INFO  [ReportProcessorOnMemory] *** Generating Reports for 12 accounts ***
+2015-06-29 10:05:14,443 INFO  [ReportProcessorOnMemory] 
+
+ ** Generating: KEYWORDS_PERFORMANCE_REPORT **
+2015-06-29 10:05:14,444 INFO  [ReportProcessorOnMemory]  Processing reports...
+2015-06-29 10:05:14,445 INFO  [ReportProcessor] Instantiate report definition for KEYWORDS_PERFORMANCE_REPORT with includeZeroImpressions=false
+2015-06-29 10:33:38,745 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 1704 seconds ***
+
+2015-06-29 10:33:38,758 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 1704 seconds ***
+
+2015-06-29 11:22:16,681 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:22:16,684 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:22:16,742 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:22:16,743 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:22:16,743 WARN  [AwReporting] Done.
+2015-06-29 11:22:16,744 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:22:17,134 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:22:18,826 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:22:18,831 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:22:18,833 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:22:19,181 INFO  [ReportProcessorOnMemory] *** Generating Reports for 2 accounts ***
+2015-06-29 11:22:19,183 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 0 seconds ***
+
+2015-06-29 11:24:53,108 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:24:53,112 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:24:53,151 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:24:53,152 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:24:53,152 WARN  [AwReporting] Done.
+2015-06-29 11:24:53,153 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:24:53,546 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:24:54,915 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:24:54,921 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:24:54,922 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:24:55,286 INFO  [ReportProcessorOnMemory] *** Generating Reports for 2 accounts ***
+2015-06-29 11:24:55,289 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 0 seconds ***
+
+2015-06-29 11:25:03,670 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:25:03,674 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:25:03,709 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:25:03,710 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:25:03,711 WARN  [AwReporting] Done.
+2015-06-29 11:25:03,711 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:25:04,095 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:25:05,465 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:25:05,466 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:25:05,467 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:25:05,816 INFO  [ReportProcessorOnMemory] *** Generating Reports for 2 accounts ***
+2015-06-29 11:25:05,820 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 0 seconds ***
+
+2015-06-29 11:25:34,889 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:25:34,895 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:25:34,933 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:25:34,934 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:25:34,936 WARN  [AwReporting] Done.
+2015-06-29 11:25:34,937 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:25:35,325 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:25:36,723 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:25:36,724 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:25:36,734 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:25:37,063 INFO  [ReportProcessorOnMemory] *** Generating Reports for 2 accounts ***
+2015-06-29 11:25:37,065 INFO  [ReportProcessorOnMemory] 
+
+ ** Generating: KEYWORDS_PERFORMANCE_REPORT **
+2015-06-29 11:25:37,066 INFO  [ReportProcessorOnMemory]  Processing reports...
+2015-06-29 11:25:37,067 INFO  [ReportProcessor] Instantiate report definition for KEYWORDS_PERFORMANCE_REPORT with includeZeroImpressions=false
+2015-06-29 11:25:38,827 ERROR [RunnableProcessorOnMemory] Error processing report for account: 5680411529 a different object with the same identifier value was already associated with the session: [com.google.api.ads.adwords.awreporting.model.entities.ReportKeyword#null-20150401-20150625-20150401-20150625]
+2015-06-29 11:25:39,903 ERROR [RunnableProcessorOnMemory] Error processing report for account: 8887334857 a different object with the same identifier value was already associated with the session: [com.google.api.ads.adwords.awreporting.model.entities.ReportKeyword#null-20150401-20150625-20150401-20150625]
+2015-06-29 11:25:39,910 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 2 seconds ***
+
+2015-06-29 11:25:39,911 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 2 seconds ***
+
+2015-06-29 11:31:22,712 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:31:22,715 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:31:22,755 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:31:22,755 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:31:22,755 WARN  [AwReporting] Done.
+2015-06-29 11:31:22,756 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:31:23,140 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:31:24,529 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:31:24,531 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:31:24,532 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:31:24,855 INFO  [ReportProcessorOnMemory] *** Generating Reports for 1 accounts ***
+2015-06-29 11:31:24,858 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 0 seconds ***
+
+2015-06-29 11:33:10,238 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:33:10,240 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:33:10,277 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:33:10,278 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:33:10,278 WARN  [AwReporting] Done.
+2015-06-29 11:33:10,279 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:33:10,643 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:33:11,960 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:33:11,961 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:33:11,961 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:33:12,290 INFO  [ReportProcessorOnMemory] *** Generating Reports for 1 accounts ***
+2015-06-29 11:33:12,293 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 0 seconds ***
+
+2015-06-29 11:33:21,663 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:33:21,667 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:33:21,702 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:33:21,702 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:33:21,703 WARN  [AwReporting] Done.
+2015-06-29 11:33:21,703 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:33:22,072 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:33:23,414 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:33:23,414 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:33:23,424 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:33:23,781 INFO  [ReportProcessorOnMemory] *** Generating Reports for 1 accounts ***
+2015-06-29 11:33:23,787 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 0 seconds ***
+
+2015-06-29 11:33:49,351 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:33:49,355 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:33:49,393 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:33:49,394 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:33:49,394 WARN  [AwReporting] Done.
+2015-06-29 11:33:49,395 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:33:49,791 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:33:51,140 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:33:51,146 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:33:51,151 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:33:51,472 INFO  [ReportProcessorOnMemory] *** Generating Reports for 1 accounts ***
+2015-06-29 11:33:51,474 INFO  [ReportProcessorOnMemory] 
+
+ ** Generating: KEYWORDS_PERFORMANCE_REPORT **
+2015-06-29 11:33:51,475 INFO  [ReportProcessorOnMemory]  Processing reports...
+2015-06-29 11:33:51,475 INFO  [ReportProcessor] Instantiate report definition for KEYWORDS_PERFORMANCE_REPORT with includeZeroImpressions=false
+2015-06-29 11:33:54,180 ERROR [RunnableProcessorOnMemory] Error processing report for account: 8887334857 a different object with the same identifier value was already associated with the session: [com.google.api.ads.adwords.awreporting.model.entities.ReportKeyword#null-20150401-20150625-20150401-20150625]
+2015-06-29 11:33:54,185 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 2 seconds ***
+
+2015-06-29 11:33:54,188 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 2 seconds ***
+
+2015-06-29 11:34:35,116 INFO  [AwReporting] Using properties file: aw-report.prop
+2015-06-29 11:34:35,122 INFO  [AwReporting] Using accounts file: account1.txt
+2015-06-29 11:34:35,159 INFO  [AwReporting] Using SQL DB configuration properties.
+2015-06-29 11:34:35,159 WARN  [AwReporting] Updating database schema, this could take a few minutes ...
+2015-06-29 11:34:35,159 WARN  [AwReporting] Done.
+2015-06-29 11:34:35,160 INFO  [AwReporting] Using ONMEMORY Processor.
+2015-06-29 11:34:35,536 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report.prop]
+2015-06-29 11:34:36,915 INFO  [AwReporting] Starting report download for dateStart: 20150401 and dateEnd: 20150625
+2015-06-29 11:34:36,915 INFO  [ReportProcessorOnMemory] *** Retrieving account IDs ***
+2015-06-29 11:34:36,915 INFO  [ReportProcessorOnMemory] Accounts loaded from file.
+2015-06-29 11:34:37,255 INFO  [ReportProcessorOnMemory] *** Generating Reports for 1 accounts ***
+2015-06-29 11:34:37,257 INFO  [ReportProcessorOnMemory] 
+
+ ** Generating: KEYWORDS_PERFORMANCE_REPORT **
+2015-06-29 11:34:37,258 INFO  [ReportProcessorOnMemory]  Processing reports...
+2015-06-29 11:34:37,259 INFO  [ReportProcessor] Instantiate report definition for KEYWORDS_PERFORMANCE_REPORT with includeZeroImpressions=false
+2015-06-29 11:37:04,620 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 147 seconds ***
+
+2015-06-29 11:37:04,621 INFO  [ReportProcessorOnMemory] *** Finished processing all reports in 147 seconds ***
+
